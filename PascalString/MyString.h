@@ -1,9 +1,3 @@
-/*James Trollo
-CS 590A
-Assignment 1 - Pascal Strings
-
-This header file was taken from CS590 canvas
-*/
 #ifndef __MYSTRING_H__
 #define __MYSTRING_H__
 
@@ -38,7 +32,7 @@ public:
 	String& operator=(String&& rhs);
 
 	// Mutator operator[]
-	// Usage: aStringObject[1] = ’M’;
+	// Usage: aStringObject[1] = â€™Mâ€™;
 	char &operator[] (int index);
 
 	// Accessor operator[]
