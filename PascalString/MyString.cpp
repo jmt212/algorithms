@@ -1,7 +1,3 @@
-/*James Trollo
-  CS 590A
-  Assignment 1 - Pascal Strings
-*/
 #include <iostream>
 #include <algorithm>
 #include <string>
