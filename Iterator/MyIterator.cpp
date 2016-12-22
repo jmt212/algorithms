@@ -1,8 +1,3 @@
-/*
-James Trollo
-CS590-A
-Lab 2 - Random Access Iterator
-*/
 #include <vector>
 #include <deque>
 #include <iostream>
