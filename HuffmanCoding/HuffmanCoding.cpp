@@ -1,5 +1,4 @@
 /*
-CS590A - Group 50 - James Trollo, Zeyu Ni, Shuo Zhang
 Huffman Coding Assignment
 */
 
