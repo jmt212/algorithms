@@ -1,7 +1,3 @@
-/*
-Group 50 James Trollo, Zeyu Ni, Shuo Zhang
-Note: Extra credit attempted
-*/
 #include "List.h"
 #include <iostream>
 #include <string>
