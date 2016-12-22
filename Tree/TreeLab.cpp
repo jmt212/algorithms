@@ -1,4 +1,3 @@
-//Group 50
 #include <iostream>
 #include <vector>
 #include <string>
