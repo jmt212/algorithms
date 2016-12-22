@@ -1,7 +1,3 @@
-/*
-Group 50 James Trollo, Zeyu Ni, Shuo Zhang
-*/
-
 #include <iostream>
 #include <stack>
 #include <queue>
