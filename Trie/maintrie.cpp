@@ -1,10 +1,3 @@
-/*
-CS590A - Group 50 - James Trollo, Zeyu Ni, Shuo Zhang
-Trie Article Assignment
-mainsearch.cpp
-
-Purpose: Searches text input from standard input for company names/synonyms from a file called companies.dat using a trie
-*/
 #include <iostream>
 #include <fstream>
 #include <sstream>
